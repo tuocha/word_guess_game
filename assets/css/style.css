@@ -1,0 +1,32 @@
+* {
+    color: gold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 48pt; 
+}
+
+section {
+    margin: 7% 5% 0% 20%;
+    width: 80%;
+}
+.image-container {
+    float: left;
+    border: dashed silver 5px;
+    padding: 5%;
+    margin-right: 10%;
+}
+
+.guesses {
+    margin: 5% 0%;
+}
