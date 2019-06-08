@@ -94,6 +94,7 @@ document.onkeypress = function(event) {
             //if six incorrect guesses are made, the game is over
             if (wrongGuess.length === 6){
             alert("GAME OVER");
+            document.location.reload();
             }
         
 }
